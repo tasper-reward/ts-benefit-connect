@@ -1,5 +1,5 @@
 ---
-"@tasper/benefit-connect": patch
+"@benefits/benefit-connect": patch
 ---
 
 Initial commit

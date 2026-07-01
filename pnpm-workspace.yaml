@@ -2,3 +2,5 @@ allowBuilds:
   esbuild: true
 minimumReleaseAgeExclude:
   - esbuild@0.28.1
+packages:
+  - '.'
